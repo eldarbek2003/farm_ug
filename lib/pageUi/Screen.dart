@@ -384,7 +384,7 @@ class _MainScreenState extends State<MainScreen> {
                             Padding(
                               padding: const EdgeInsets.all(12),
                               child: Image.asset(
-                                'assets/maz.png',
+                                'assets/maz.png', 
                               ),
                             ),
                           ],
